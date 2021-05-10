@@ -4,4 +4,4 @@ Swyx and many others encourage [Learning in Public](https://www.swyx.io/writing/
 - We help ourselves in the future
 - We reinforce our learnings by teaching others
 - We build our skills and our network
-- We become the expert
+- We become the experts
