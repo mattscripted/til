@@ -3,6 +3,7 @@
 Sharing one thing I learned each day as Senior Full-Stack Developer.
 
 1. [Learn in Public](./learn-in-public.md)
+2. [Decider Protocol](./decider-protocol.md)
 
 ## Inspiration
 
