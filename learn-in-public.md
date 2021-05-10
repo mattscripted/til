@@ -1,3 +1,5 @@
+# Learn in Public
+
 Swyx and many others encourage [Learning in Public](https://www.swyx.io/writing/learn-in-public/) by creating content while we learn.
 
 - We create the content we wish we had
