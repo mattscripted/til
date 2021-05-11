@@ -20,13 +20,13 @@ And, that sucks. We feel slow. We feel incomplete. We feel behind on what's next
 
 So, the cycle repeats.
 
-_Stop. Catch your breath._
+## Stop. Catch your breath.
 
 Imagine someone just came to you, and said:
 
 > Hey, we want to complete this work, and it's falling behind schedule. What should we do?
 
-For a moment, it does not matter how we got there. What matters is how we proceed from here. **This is a new problem.**
+For a moment, it does not matter how we got here. What matters is how we proceed from here. **This is a new problem.**
 
 We start again:
 
