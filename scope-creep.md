@@ -30,9 +30,8 @@ For a moment, it does not matter how we got here. What matters is how we proceed
 
 We start again:
 
-- We determine where we are
-- We determine where we need to be
 - We set a clear outcome
+- We clarify any unknowns
 - We break the remaining work into sub-tasks
 - We scope down or ask for more time
 - We follow through
