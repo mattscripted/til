@@ -8,6 +8,10 @@ Sharing one thing I learned each day as Senior Full-Stack Developer.
 
 - ["Open address" for an EC2 instance opens with HTTPS, even if it's not supported](./aws/ec2-instance-open-address-http.md)
 
+### Frontend
+
+- [Using CSS grids for responsive layouts](./frontend/using-css-grids-for-responsive-layouts.md)
+
 ### Uncategorized
 
 - [Learn in Public](./learn-in-public.md)
