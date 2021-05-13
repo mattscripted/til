@@ -17,6 +17,7 @@ Sharing one thing I learned each day as Senior Full-Stack Developer.
 - [Learn in Public](./learn-in-public.md)
 - [Decider Protocol](./decider-protocol.md)
 - [Scope Creep](./scope-creep.md)
+- [Google's Speed of Code Reviews](./googles-speed-of-code-reviews.md)
 
 ## Inspiration
 
