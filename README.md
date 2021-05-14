@@ -11,6 +11,7 @@ Sharing one thing I learned each day as Senior Full-Stack Developer.
 ### Frontend
 
 - [Using CSS grids for responsive layouts](./frontend/using-css-grids-for-responsive-layouts.md)
+- [redux-mock-store supports getting state with a function](./frontend/redux-mock-store-get-state-function.md)
 
 ### Uncategorized
 
