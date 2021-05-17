@@ -29,12 +29,12 @@ Nothing yet!
 
 - [Types of Automated Tests](./testing/types-of-automated-tests.md)
 
-### Other
+### Etc.
 
-- [Learn in Public](./other/learn-in-public.md)
-- [Decider Protocol](./other/decider-protocol.md)
-- [Scope Creep](./other/scope-creep.md)
-- [Google's Speed of Code Reviews](./other/googles-speed-of-code-reviews.md)
+- [Learn in Public](./etc/learn-in-public.md)
+- [Decider Protocol](./etc/decider-protocol.md)
+- [Scope Creep](./etc/scope-creep.md)
+- [Google's Speed of Code Reviews](./etc/googles-speed-of-code-reviews.md)
 
 ## Inspiration
 
