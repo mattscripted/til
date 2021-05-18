@@ -11,7 +11,7 @@ Sharing one thing I learned each day as a Senior Full-Stack Developer.
 
 ### API
 
-Nothing yet!
+- [Why use GraphQL?](./api/why-use-graphql.md)
 
 ### Backend
 
