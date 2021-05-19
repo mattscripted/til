@@ -35,6 +35,7 @@ Nothing yet!
 - [Decider Protocol](./etc/decider-protocol.md)
 - [Scope Creep](./etc/scope-creep.md)
 - [Google's Speed of Code Reviews](./etc/googles-speed-of-code-reviews.md)
+- [Choosing Destinations in Segment](./etc/segment-choose-destinations.md)
 
 ## Inspiration
 
