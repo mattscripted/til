@@ -28,6 +28,7 @@ Nothing yet!
 ### Testing
 
 - [Types of Automated Tests](./testing/types-of-automated-tests.md)
+- [Creating utility methods with React Testing Library](./testing/rtl-render-utils.md)
 
 ### Etc.
 
