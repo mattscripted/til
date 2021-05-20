@@ -1,6 +1,6 @@
 # Creating utility methods with React Testing Library
 
-[React Testing Library](https://testing-library.com/docs/react-testing-library/intro) encourages developers to write tests that resemble how users use an application, by providing a light-weight API to query the DOM instead of React components.
+[React Testing Library](https://testing-library.com/docs/react-testing-library/intro) encourages developers to write tests that resemble how users use an application, by providing a light-weight API to query and interact with DOM instead of React components.
 
 As we write tests, we look for elements and perform actions:
 
@@ -82,7 +82,7 @@ const typeSearchQuery = (searchQuery = 'keywords' ) => {
 };
 ```
 
-Then, we can create a custom `render` methods that provides these utilities:
+Then, we can create a custom `render` method that provides these utilities:
 
 ```js
 import React from 'react'
@@ -150,7 +150,7 @@ describe('MyComponent', () => {
   it('initially disables the submit button', () => {
     const { getSubmitButton } = render(<MyComponent />);
 
-    expect(submitButton).toBeDisabled();
+    expect(getSubmitButton()).toBeDisabled();
   });
 
   it('enables the submit button after entering a search query', () => {
@@ -162,7 +162,7 @@ describe('MyComponent', () => {
   });
 
   it('searches for results', () => {
-    const { getSubmitButton } = render(<MyComponent />);
+    const { getSubmitButton, typeSearchQuery } = render(<MyComponent />);
 
     typeSearchQuery();
     userEvent.click(getSubmitButton());
