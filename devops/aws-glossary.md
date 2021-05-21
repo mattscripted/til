@@ -25,7 +25,7 @@ AWS provides a lot of services for cloud computing [<sup>1</sup>](#references).
 | **IAM Group** | A collection of IAM users with shared permissions [<sup>5</sup>](#references) |
 | **IAM Role** | Delegate access to trusted entities, such as users or servicess [<sup>1, 6</sup>](#references) |
 | **IAM Policy** | A document that defines permissions for users, groups, and roles [<sup>1</sup>](#references) |
-| **Least Privilege** | Users should only have the minimum privilege necessary to do their tasks [<sup>5</sup>](#references) |
+| **Least Privilege** | Give users, groups, and roles only the minimum privilege necessary to do their tasks [<sup>5</sup>](#references) |
 
 ## Services
 
