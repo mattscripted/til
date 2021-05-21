@@ -8,6 +8,7 @@ Sharing one thing I learned each day as a Senior Full-Stack Developer.
 
 - [Using CSS grids for responsive layouts](./frontend/using-css-grids-for-responsive-layouts.md)
 - [redux-mock-store supports getting state with a function](./frontend/redux-mock-store-get-state-function.md)
+- [Choosing Destinations in Segment](./frontend/segment-choose-destinations.md)
 
 ### API
 
@@ -37,7 +38,6 @@ Nothing yet!
 - [Decider Protocol](./etc/decider-protocol.md)
 - [Scope Creep](./etc/scope-creep.md)
 - [Google's Speed of Code Reviews](./etc/googles-speed-of-code-reviews.md)
-- [Choosing Destinations in Segment](./etc/segment-choose-destinations.md)
 
 ## Inspiration
 
