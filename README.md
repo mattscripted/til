@@ -23,6 +23,7 @@ Nothing yet!
 
 ### Dev Ops
 
+- [AWS Glossary](./devops/aws-glossary.md) - _Ongoing_
 - ["Open address" for an EC2 instance opens with HTTPS, even if it's not supported](./devops/ec2-instance-open-address-http.md)
 
 ### Testing
