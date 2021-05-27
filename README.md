@@ -10,6 +10,7 @@ Sharing one thing I learned each day as a Senior Full-Stack Developer.
 - [redux-mock-store supports getting state with a function](./frontend/redux-mock-store-get-state-function.md)
 - [Choosing Destinations in Segment](./frontend/segment-choose-destinations.md)
 - [React - Compound Components](https://github.com/mattscripted/react-compound-components)
+- [Using Optimizely in Segment](./frontend/optimizely-in-segment.md)
 
 ### API
 
