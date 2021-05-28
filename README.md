@@ -9,7 +9,7 @@ Sharing one thing I learned each day as a Senior Full-Stack Developer.
 - [Use CSS grids for responsive layouts](./frontend/css-grids-for-responsive-layouts.md)
 - [`redux-mock-store` supports getting state with a function](./frontend/redux-mock-store-get-state-function.md)
 - [Choose Destinations in Segment](./frontend/segment-choose-destinations.md)
-- [React - Compound Components](https://github.com/mattscripted/react-compound-components)
+- [Use compound components in React](https://github.com/mattscripted/react-compound-components)
 - [Use Optimizely in Segment](./frontend/optimizely-in-segment.md)
 - [Use `Array.from()` to create an array of a given length](./frontend/array-from-length.md)
 
@@ -46,6 +46,7 @@ Nothing yet!
 ## Best Practices for TIL
 
 - Use verb forms like "Choose" instead of "Choosing" in titles
+- Use the same title in the master list as in the individual post
 
 ## Helpful Resources
 

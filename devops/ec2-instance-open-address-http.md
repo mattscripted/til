@@ -1,4 +1,4 @@
-# EC2 Instance - "Open address" with HTTP
+# "Open address" for an EC2 instance opens with HTTPS, even if it's not supported
 
 While working through freeCodeCamp.org's [AWS Basics for Beginners](https://www.youtube.com/watch?v=ulprqHHWlng&t=5268s) course, I was unable to view our simple `index.html` file on my EC2 instance.
 
