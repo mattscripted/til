@@ -1,4 +1,4 @@
-# redux-mock-store supports getting state with a function
+# `redux-mock-store` supports getting state with a function
 
 [redux-mock-store](https://github.com/reduxjs/redux-mock-store) is great for testing actions. However, it does not support reducers, so your [state will never update](https://github.com/reduxjs/redux-mock-store/issues/71).
 

@@ -1,4 +1,4 @@
-# Using Optimizely in Segment
+# Use Optimizely in Segment
 
 Out of the box, [Segment will not send events to Optimizely](https://segment.com/docs/connections/destinations/catalog/optimizely-web/#implementation-prerequisite).
 

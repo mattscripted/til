@@ -1,4 +1,4 @@
-# Choosing Destinations in Segment
+# Choose Destinations in Segment
 
 [Segment](https://segment.com/) provides one endpoint to send analytics events to multiple destinations. With a single call to `window.analytics.track()`, we can track events in Google Analytics, Mixpanel, Optimizely, and more.
 

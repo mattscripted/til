@@ -1,4 +1,4 @@
-# Using CSS grids for responsive layouts
+# Use CSS grids for responsive layouts
 
 We can easily create responsive layouts with `grid`, `grid-template-areas`, and `grid-area`.
 

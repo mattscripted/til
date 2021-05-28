@@ -1,4 +1,4 @@
-# Creating utility methods with React Testing Library
+# Create utility methods with React Testing Library
 
 [React Testing Library](https://testing-library.com/docs/react-testing-library/intro) encourages developers to write tests that resemble how users use an application, by providing a light-weight API to query and interact with DOM elements instead of React components.
 

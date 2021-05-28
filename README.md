@@ -6,11 +6,11 @@ Sharing one thing I learned each day as a Senior Full-Stack Developer.
 
 ### Frontend
 
-- [Using CSS grids for responsive layouts](./frontend/using-css-grids-for-responsive-layouts.md)
-- [redux-mock-store supports getting state with a function](./frontend/redux-mock-store-get-state-function.md)
-- [Choosing Destinations in Segment](./frontend/segment-choose-destinations.md)
+- [Use CSS grids for responsive layouts](./frontend/css-grids-for-responsive-layouts.md)
+- [`redux-mock-store` supports getting state with a function](./frontend/redux-mock-store-get-state-function.md)
+- [Choose Destinations in Segment](./frontend/segment-choose-destinations.md)
 - [React - Compound Components](https://github.com/mattscripted/react-compound-components)
-- [Using Optimizely in Segment](./frontend/optimizely-in-segment.md)
+- [Use Optimizely in Segment](./frontend/optimizely-in-segment.md)
 - [Use `Array.from()` to create an array of a given length](./frontend/array-from-length.md)
 
 ### API
@@ -33,7 +33,7 @@ Nothing yet!
 ### Testing
 
 - [Types of Automated Tests](./testing/types-of-automated-tests.md)
-- [Creating utility methods with React Testing Library](./testing/rtl-render-utils.md)
+- [Create utility methods with React Testing Library](./testing/rtl-render-utils.md)
 
 ### Etc.
 
