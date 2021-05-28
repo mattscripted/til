@@ -43,6 +43,10 @@ Nothing yet!
 - [Google's Speed of Code Reviews](./etc/googles-speed-of-code-reviews.md)
 - [Summary of Ladybug Podcast's "Blogging 101"](./etc/ladybug-podcast-blogging-101-summary.md)
 
+## Best Practices for TIL
+
+- Use verb forms like "Choose" instead of "Choosing" in titles
+
 ## Helpful Resources
 
 - [Hemingway App](https://hemingwayapp.com/) - Improve readability of posts
