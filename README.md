@@ -11,6 +11,7 @@ Sharing one thing I learned each day as a Senior Full-Stack Developer.
 - [Choosing Destinations in Segment](./frontend/segment-choose-destinations.md)
 - [React - Compound Components](https://github.com/mattscripted/react-compound-components)
 - [Using Optimizely in Segment](./frontend/optimizely-in-segment.md)
+- [Use `Array.from()` to create an array of a given length](./frontend/array-from-length.md)
 
 ### API
 
