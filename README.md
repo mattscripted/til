@@ -42,6 +42,7 @@ Nothing yet!
 - [Scope Creep](./etc/scope-creep.md)
 - [Google's Speed of Code Reviews](./etc/googles-speed-of-code-reviews.md)
 - [Summary of Ladybug Podcast's "Blogging 101"](./etc/ladybug-podcast-blogging-101-summary.md)
+- [How to prioritize your learnings](./etc/prioritize-learnings.md)
 
 ## Best Practices for TIL
 
