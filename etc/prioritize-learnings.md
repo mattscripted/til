@@ -2,7 +2,7 @@
 
 In _The Clean Coder_, Robert C. Martin emphasizes that we are responsible for our careers. We must _practice_ outside of work, so we can _perform_ at work. It is our responsibility to learn new skills to further our careers.
 
-Taking his lessons to heart, I use a skills matrix to guide my learnings, so I can level up from where I am today to where I want to be tomorrow.
+Taking his lesson to heart, I use a skills matrix to guide my learnings, so I can level up from where I am today to where I want to be tomorrow.
 
 ## First, create a skills matrix
 
@@ -14,7 +14,7 @@ Create a skills matrix spreadsheet with at least the following columns:
 
 ## Second, identify skills
 
-Review job posting, developer profiles, blog posts, and anywhere else skills may be listed for both your current and desired positions.
+Review job postings, developer profiles, blog posts, and anywhere else skills may be listed for both your current and desired positions.
 
 ## Third, identify skill importance
 
@@ -39,13 +39,13 @@ Reflect on each skill to identify your current skill level.
 
 ## Fifth, prioritize skills to learn
 
-Review each skill, considering its importance and your current level.
+Review each skill, considering its importance and your current skill level.
 
 - Where are the largest skill gaps?
 - Which skills are easier to learn?
 - Which skills will help you learn other skills?
 
-Prioritize each skill by its ROI (return on investment), and highlight it:
+Prioritize each skill by its return on investment (ROI), and highlight it:
 
 | Colour | Meaning |
 | - | - |
@@ -59,7 +59,7 @@ Prioritize each skill by its ROI (return on investment), and highlight it:
 With your list of skills prioritized, pick the most important skill, and learn it.
 
 1. Find tutorials, books, or courses
-2. Pick a time to learn consistently, such as every morning before work for 30 minutes, or every Saturday for 2 - 4 hours.
+2. Pick a time to learn consistently, such as every morning before work for an hour or every Saturday for 4 hours
 3. Apply those skills on side projects or at work
 
 ## Seventh, keep on learning
