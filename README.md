@@ -12,6 +12,7 @@ Sharing one thing I learned each day as a Senior Full-Stack Developer.
 - [Use compound components in React](https://github.com/mattscripted/react-compound-components)
 - [Use Optimizely in Segment](./frontend/optimizely-in-segment.md)
 - [Use `Array.from()` to create an array of a given length](./frontend/array-from-length.md)
+- [JavaScript Functions are Objects](./frontend/js-functions-are-objects.md)
 
 ### API
 
