@@ -36,6 +36,10 @@ Nothing yet!
 - [`redux-mock-store` supports getting state with a function](./testing/redux-mock-store-get-state-function.md)
 - [Create utility methods with React Testing Library](./testing/rtl-render-utils.md)
 
+### Cheat Sheets
+
+- [Tech Lead Cheat Sheet](./cheat-sheets/tech-lead.md) - _Ongoing_
+
 ### Etc.
 
 - [Learn in Public](./etc/learn-in-public.md)
