@@ -7,7 +7,6 @@ Sharing one thing I learned each day as a Senior Full-Stack Developer.
 ### Frontend
 
 - [Use CSS grids for responsive layouts](./frontend/css-grids-for-responsive-layouts.md)
-- [`redux-mock-store` supports getting state with a function](./frontend/redux-mock-store-get-state-function.md)
 - [Choose Destinations in Segment](./frontend/segment-choose-destinations.md)
 - [Use compound components in React](https://github.com/mattscripted/react-compound-components)
 - [Use Optimizely in Segment](./frontend/optimizely-in-segment.md)
@@ -34,6 +33,7 @@ Nothing yet!
 ### Testing
 
 - [Types of Automated Tests](./testing/types-of-automated-tests.md)
+- [`redux-mock-store` supports getting state with a function](./testing/redux-mock-store-get-state-function.md)
 - [Create utility methods with React Testing Library](./testing/rtl-render-utils.md)
 
 ### Etc.
