@@ -2,7 +2,7 @@
 
 _You are much more than the code you write._
 
-## Congratulations, you're not a Tech Lead!
+## Congratulations, you're now a Tech Lead!
 
 - Welcome to the world of ambiguity, uncertainty, and responsibility
 - Get comfortable working in a less quantifable world
@@ -27,7 +27,7 @@ As a Tech Lead, your success is not in the code you write, but in the solution t
 
 ## Set a technical vision
 
-The technical vision is the big lofty goal, like "build high-quality software."
+The technical vision is the big lofty goal, like "build high-quality software." To achieve our technical vision, we continue to solve problems.
 
 ### Interview stakeholders
 
@@ -54,7 +54,7 @@ Projects are scoped down work, such as "build a dashboard to monitor production 
 - Align with your manager, higher-ups, and stakeholders on the problem you want to solve
 - Always focus on what you want to achieve: the outcomes, end results, and must haves
 
-### Define success metrics
+### Define outcomes
 
 - How can you measure the success of your work?
 - Be objective, not subjective
@@ -70,16 +70,16 @@ Projects are scoped down work, such as "build a dashboard to monitor production 
 
 - Check in at standup
 - Check in with people one-on-one
-
-## Monitor Progress
-
-- What are your metrics of success?
-- How will you measure those metrics?
-- Always focus on what you want to achieve, and what is the end result
 - Have your own list of questions when talking to people
   - What's going well?
   - What challenges are you having?
   - Is there anything you would like to talk about?
+
+## Monitor progress
+
+- What are your metrics of success?
+- How will you measure those metrics?
+- Always focus on what you want to achieve, and what is the end result
 
 ## Lead the team to achieve the vision
 
@@ -89,12 +89,12 @@ Projects are scoped down work, such as "build a dashboard to monitor production 
 
 - Communicate early and often
 - You are much less likely to go wrong by over-communicating and being transparent
-- But, you are likely to go wrong by not communicating enough
+- But, you are likely to go wrong by communicating late or not enough
 - The more you communicate, the easier it will become
 - Double-check with people
 - Ask for feedback, if you're unsure about your communication style
 - Communicate larger projects by creating a Slack channel with a fun project name
-- Give people the space to provide feedback, questions, or concerns. Remind them that there is space for their voice to be hears.
+- Give people the space to provide feedback, questions, or concerns. Remind them that there is space for their voice to be heard.
 
 ### Delegate
 
@@ -113,10 +113,11 @@ Projects are scoped down work, such as "build a dashboard to monitor production 
 - There is too much technology to know a lot about everything
 - Instead, learn a little about a lot of things, so you can talk to others about those things
 
-### Manage Time
+## Manage your time
 
 - Don't assume all responsibilities
 - Delegate to others to free up your time to do more impactful work
 - Use a system to keep track of things, so you can purposely forget things. Trust your system.
+- Don't record notes on paper, and then transfer them somewhere else. Write the notes immediately (or as close to) where you're going to need them.
 - Improve your context switching skills
 - Make a decision, and follow through. Don't second guess yourself and waffle about.
