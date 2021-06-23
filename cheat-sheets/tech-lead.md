@@ -134,12 +134,13 @@ It can be socially exhausting to be in plenty of conversations. Know your limit 
 
 ## Manage your time
 
-It's important to work sustainably, so you can best support for the team in the long-term. Keep your hours reasonable, so you can stick through the journey.
+It's important to work sustainably, so you can best support the team in the long-term. Keep your hours reasonable, so you can stick through the journey.
 
 - Don't assume all responsibilities
 - Delegate to others to free up your time to do more impactful work
 - Use a system to keep track of things, so you can purposely forget things. Trust your system.
 - Don't record notes on paper, and then transfer them somewhere else. Write the notes immediately (or as close to) where you're going to need them.
+- Record meeting notes during or immediately after meetings, so you can reference past conversations in the future
 - Improve your context switching skills
 - Make a decision, and follow through. Don't second guess yourself and waffle about.
 
