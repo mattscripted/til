@@ -102,6 +102,14 @@ Projects are scoped down work, such as "build a dashboard to monitor production 
 
 - Build trust with the team: "People first, then results"
 
+## Redefine your success
+
+As a developer, success can be measured in completing tasks with high quality. As a Tech Lead, your success changes to how well the team solves problems.
+
+- Broaden your impact
+- Teach others to do what you're good at doing
+- Solve the bigger problems for your team
+
 ## Build relationships
 
 It is much easier to do your job as a Tech Lead when you have strong relationships across the team, the department, and the business. Take the time to naturally grow relationships, and they will pay dividends time and time again.
@@ -124,19 +132,6 @@ It can be socially exhausting to be in plenty of conversations. Know your limit 
 - Give away as much of your work as possible, so you can use your time effectively
 - Encourage people to want to do tasks, by showing what's in it for them
 
-## Redefine your success
-
-As a developer, success can be measured in completing tasks with high quality. As a Tech Lead, your success changes to how well the team solves problems.
-
-- Broaden your impact
-- Teach others to do what you're good at doing
-- Solve the bigger problems for your team
-
-## Keep up with technology
-
-- There is too much technology to know a lot about everything
-- Instead, learn a little about a lot of things, so you can talk to others about those things
-
 ## Manage your time
 
 It's important to work sustainably, so you can best support for the team in the long-term. Keep your hours reasonable, so you can stick through the journey.
@@ -147,3 +142,9 @@ It's important to work sustainably, so you can best support for the team in the 
 - Don't record notes on paper, and then transfer them somewhere else. Write the notes immediately (or as close to) where you're going to need them.
 - Improve your context switching skills
 - Make a decision, and follow through. Don't second guess yourself and waffle about.
+
+## Keep up with technology
+
+- There is too much technology to know a lot about everything
+- Instead, learn a little about a lot of things, so you can talk to others about those things
+- Balance breadth vs depth of skills
