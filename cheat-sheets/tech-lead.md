@@ -81,6 +81,7 @@ Projects are scoped down work, such as "build a dashboard to monitor production 
 - If something is unclear, seek facts not assumptions
 - Stop investigating once you hit diminishing returns
 - You don't need all the answers up front
+- If the solution feels too big or too ambitious, it probably is. Make it smaller, almost to the point that it feels too small or too easy.
 - Communicate the problem and solution, so the team can get involved
 
 ### Identify and resolve barriers
@@ -91,6 +92,7 @@ Projects are scoped down work, such as "build a dashboard to monitor production 
   - What's going well?
   - What challenges are you having?
   - Is there anything you would like to talk about?
+- Keep on pushing things forward, even if it's just another conversation or clarification
 
 ### Monitor progress
 
@@ -114,6 +116,8 @@ As a developer, success can be measured in completing tasks with high quality. A
 
 It is much easier to do your job as a Tech Lead when you have strong relationships across the team, the department, and the business. Take the time to naturally grow relationships, and they will pay dividends time and time again.
 
+- Talk to other Tech Leads or Managers to learn how they overcome challenges
+
 ## Communicate
 
 - Communicate early and often
@@ -124,6 +128,7 @@ It is much easier to do your job as a Tech Lead when you have strong relationshi
 - Ask for feedback, if you're unsure about your communication style
 - Communicate larger projects by creating a Slack channel with a fun project name
 - Give people the space to provide feedback, questions, or concerns. Remind them that there is space for their voice to be heard.
+- Close the loop. Don't leave a question or comment hanging. Make sure there's a clear end to the conversation.
 
 It can be socially exhausting to be in plenty of conversations. Know your limit and block out "solo work time" so you can work effectively.
 
@@ -143,6 +148,7 @@ It's important to work sustainably, so you can best support the team in the long
 - Record meeting notes during or immediately after meetings, so you can reference past conversations in the future
 - Improve your context switching skills
 - Make a decision, and follow through. Don't second guess yourself and waffle about.
+- Sometimes, working outside of core business hours may be the best time to get stuff done. But, don't give up too much of your personal time.
 
 ## Keep up with technology
 
