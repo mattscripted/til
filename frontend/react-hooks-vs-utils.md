@@ -35,7 +35,7 @@ const Component = () => {
 };
 ```
 
-If you need access to React features, such as `useState` or `useEffect`, then use a hook. However, doing so will limit your shared logic to React components.
+If you need access to React features, such as `useState` or `useEffect`, then use a hook. However, hooks are limited to React.
 
 ## Utility Functions
 
@@ -60,4 +60,4 @@ window.addEventListener('DOMContentLoaded', () => {
 });
 ```
 
-If you don't need access to React features, and don't expect to need access to React features, then use a utility function. Doing so will allow your shared logic to be used anywhere.
+If you don't need access to React features, and don't expect to need access to React features, then use a utility function. This way, you can reuse your logic anywhere.
