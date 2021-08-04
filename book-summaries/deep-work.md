@@ -13,7 +13,7 @@ _"The most dangerous word in one's productivity vocabulary [is] 'yes." - Cal New
 
 ## Roosevelt Dashes
 
-[Roosevelt Dashes](https://minafi.com/build-focus-roosevelt-dashes) provide a technique for practicing deep work, where you work intently to finish something in an aggressive time.
+[Roosevelt Dashes](https://minafi.com/build-focus-roosevelt-dashes) provide a technique for practicing deep work, where you work intently to finish a task in an aggressive time.
 
 - Pick a specific, clearly defined task
 - Estimate how long it will take to finish
