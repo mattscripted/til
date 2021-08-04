@@ -6,6 +6,7 @@ Sharing one thing I learned each day as a Senior Full-Stack Developer.
 
 ### Book Summaries
 
+- [Deep Work](./book-summaries/deep-work.md)
 - [The Five Dysfunctions of a Team](./book-summaries/the-five-dysfunctions-of-a-team.md)
 
 ### Frontend
