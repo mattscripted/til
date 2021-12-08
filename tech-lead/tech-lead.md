@@ -1,4 +1,4 @@
-# Tech Lead Cheat Sheet
+# Tech Lead (Summary)
 
 _You are much more than the code you write._
 
