@@ -8,6 +8,7 @@ Sharing one thing I learned each day as a Senior Full-Stack Developer.
 
 - [Deep Work](./book-summaries/deep-work.md)
 - [The Five Dysfunctions of a Team](./book-summaries/the-five-dysfunctions-of-a-team.md)
+- [Start with Why](./book-summaries/start-with-why.md)
 
 ### Frontend
 
@@ -45,6 +46,7 @@ Nothing yet!
 ### Tech Lead
 
 - [Tech Lead (Summary)](./tech-lead/tech-lead.md) - _Ongoing_
+- [Why, What, and How](./tech-lead/why-what-how.md)
 
 ### Etc.
 
