@@ -46,6 +46,7 @@ Nothing yet!
 ### Tech Lead
 
 - [Tech Lead (Summary)](./tech-lead/tech-lead.md) - _Ongoing_
+- [Define "what" outcomes, not "how" outcomes](./tech-lead/define-what-not-how.md)
 
 ### Etc.
 
