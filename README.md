@@ -46,7 +46,6 @@ Nothing yet!
 ### Tech Lead
 
 - [Tech Lead (Summary)](./tech-lead/tech-lead.md) - _Ongoing_
-- [Why, What, and How](./tech-lead/why-what-how.md)
 
 ### Etc.
 
