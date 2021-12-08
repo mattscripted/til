@@ -1,4 +1,4 @@
-# Why, How, and What
+# Start with Why
 
 In _Start with Why_ by Simon Sinek, we learn of the golden circle comprising of _Why_, _How_, and _What_.
 
