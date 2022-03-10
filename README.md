@@ -47,6 +47,7 @@ Nothing yet!
 
 - [Tech Lead (Summary)](./tech-lead/tech-lead.md) - _Ongoing_
 - [Define "what" outcomes, not "how" outcomes](./tech-lead/define-what-not-how.md)
+- [What kind of ticket should I make?](./tech-lead/what-kind-of-ticket.md)
 
 ### Etc.
 
