@@ -54,6 +54,7 @@ Nothing yet!
 - [Decider Protocol](./teamwork/decider-protocol.md)
 - [Scope Creep](./teamwork/scope-creep.md)
 - [Google's Speed of Code Reviews](./teamwork/googles-speed-of-code-reviews.md)
+- [Don't "Just Do It"](./teamwork/dont-just-do-it.md)
 
 ### Etc.
 
