@@ -1,6 +1,6 @@
 # til (Today I learned)
 
-Sharing one thing I learned each day as a Senior Full-Stack Developer.
+Sharing small things I've learned as Senior Full-Stack Developer and Technical Lead.
 
 ## Topics
 
@@ -49,12 +49,16 @@ Nothing yet!
 - [Define "what" outcomes, not "how" outcomes](./tech-lead/define-what-not-how.md)
 - [What kind of ticket should I make?](./tech-lead/what-kind-of-ticket.md)
 
+### Teamwork
+
+- [Decider Protocol](./teamwork/decider-protocol.md)
+- [Scope Creep](./teamwork/scope-creep.md)
+- [Google's Speed of Code Reviews](./teamwork/googles-speed-of-code-reviews.md)
+
 ### Etc.
 
 - [Learn in Public](./etc/learn-in-public.md)
-- [Decider Protocol](./etc/decider-protocol.md)
-- [Scope Creep](./etc/scope-creep.md)
-- [Google's Speed of Code Reviews](./etc/googles-speed-of-code-reviews.md)
+
 - [Summary of Ladybug Podcast's "Blogging 101"](./etc/ladybug-podcast-blogging-101-summary.md)
 - [How to prioritize your learnings](./etc/prioritize-learnings.md)
 
